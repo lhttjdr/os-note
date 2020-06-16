@@ -15,4 +15,4 @@ boot: floppy
 
 log: bochsout.txt
 
-display_library: x, options="gui_debug"
+display_library: win32, options="gui_debug"
